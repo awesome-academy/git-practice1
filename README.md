@@ -3,3 +3,4 @@ Git không nghĩ hoặc xử lý dữ liệu theo cách này. Mà thay vào đó
 Hom nay buon ngu qua
 etc
 etc part 2
+etc part 3
